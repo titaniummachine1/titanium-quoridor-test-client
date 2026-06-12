@@ -33,4 +33,4 @@ Requires: `git`, `cargo` (for source builds). Nothing else.
 
 ## License
 
-AGPL-3.0-or-later (see `LICENSE`).
+GPL-3.0-or-later (see `LICENSE`).
