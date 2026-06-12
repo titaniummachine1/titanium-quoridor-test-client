@@ -30,3 +30,7 @@ free-tier invocations).
 4. `POST /api/result` with W/L/D (failed submissions saved and retried).
 
 Requires: `git`, `cargo` (for source builds). Nothing else.
+
+## License
+
+GPL-3.0-or-later (see `LICENSE`).
